@@ -1,4 +1,8 @@
 
+# This code is no longer supported here.
+## Please, go to https://github.com/KiCad/kicad-library to checkout the most recent code.
+
+
 KiCad utilities
 ===============
 
